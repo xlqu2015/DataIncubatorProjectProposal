@@ -1,1 +1,1 @@
-# DataIncubatorProjectProposal
+# Data Incubator Project
