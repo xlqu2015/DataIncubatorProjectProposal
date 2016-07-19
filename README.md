@@ -1,1 +1,3 @@
 # Data Incubator Project
+
+### Recently wearable devices and mobile apps became more powerful and affordable to common people. These devices can track people¡¯s daily activities and health status. The massive amount of mobile health-related data created potentials and opportunities to discover general trends of population health and predict health risks for individuals. Therefore, in my project, I plan to analyze Physical Activity Monitoring Data Set to quantify the effect of different activities on individuals' heart rates. If possible, I will find other data sets to further link the frequency of different activities on health status, such as Body Mass Index (BMI), and predict health risks for individuals. 
